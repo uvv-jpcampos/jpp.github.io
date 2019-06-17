@@ -1,1 +1,1 @@
-# jpp.github.io
+# http://jpp.github.io
